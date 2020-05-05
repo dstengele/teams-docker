@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Teams (Docker)
+GenericName=Teams
+Exec=/usr/bin/x11docker --alsa --dbus --hostdisplay --clipboard --webcam --home teams
+Icon=teams
+Terminal=false
+Categories=Network;
